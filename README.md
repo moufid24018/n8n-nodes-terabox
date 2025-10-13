@@ -1,8 +1,8 @@
-# Terabox Upload Tool
+# n8n-nodes-terabox
 
-**🚀Boost Your Node.js Apps with TeraBox Upload Tool**
+**🚀Boost Your Node.js Apps with n8n-nodes-terabox**
 
-Supercharge your Node.js applications with the TeraBox Upload Tool — a powerful library for seamless integration with [TeraBox](https://www.terabox.com/wap), the leading cloud storage platform with 1TB of free space.
+Supercharge your Node.js applications with the n8n-nodes-terabox — a powerful library for seamless integration with [TeraBox](https://www.terabox.com/wap), the leading cloud storage platform with 1TB of free space.
 
 ✅ Effortlessly:
 
